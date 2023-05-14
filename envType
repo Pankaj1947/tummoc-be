@@ -1,0 +1,9 @@
+DATABASE = database
+JWT_KEY=secretkey
+PORT=port
+
+CLIENT_URL=frontendURL
+CLIENT_ID=googleclientid
+CLIENT_SECRET=googleclientsecret
+
+SESSION_SECRET=sessionSecret
